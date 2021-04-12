@@ -1,2 +1,2 @@
-# ** Predicting Bankruptcy with Machine Learning Algorithm **
+# **Predicting Bankruptcy with Machine Learning Algorithm**
 financial_analysis
