@@ -13,5 +13,7 @@ possibilities.
 - Python, Google Colaboratory
 - Numpy, Pandas, Keras, Sklearn
 - Seaborn
+## Sources by
+- Kaggle
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
