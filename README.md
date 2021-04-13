@@ -16,9 +16,6 @@ possibilities.
 ## Sources by
 - Kaggle : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
 ## Columns 
-|Name|Description|
-|----|-----------|
-|테스트1|테스트2|
-|테스트1|테스트2|
+
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
