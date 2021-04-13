@@ -14,6 +14,6 @@ possibilities.
 - Numpy, Pandas, Keras, Sklearn
 - Seaborn
 ## Sources by
-- Kaggle
+- Kaggle : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
