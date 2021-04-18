@@ -17,6 +17,6 @@ possibilities.
 - Kaggle : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
 ## Columns Explanation
 - link : https://docs.google.com/spreadsheets/d/1hKmfA00Vn76y6M_qQpg_ZwRdk32nXVjq5v5pMDa1R7I/edit#gid=0
-- Or ./data
+- Or <a></a>
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
