@@ -27,8 +27,11 @@
 - One-hot Encoding
 - Sequence : sklearn's MinMaxScaler
 ### Modeling
-1. Activation
-  </t>- relu
+- Activation : Relu, Sigmoid
+- Dense layers : 5
+
+## 3. User Interface
+We've also provide the service with visualization of result and bankruptcfy prediction of any company that user input the financial index.
 
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
