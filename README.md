@@ -28,7 +28,7 @@
 - Sequence : sklearn's MinMaxScaler
 ### Modeling
 1. Activation
-  - relu
+  </t>- relu
 
 ## Colab Link
 - https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
