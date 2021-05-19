@@ -1,5 +1,5 @@
 # **Predicting Bankruptcy with Deep Learning Algorithm**
-## Description
+## <span style="color:blue">1. Description</span>
 ### Intro
 Predicting Bankruptcy with financial statement.
 Analysis main features of financial statement such as ROA, Turnover rate,
@@ -20,7 +20,7 @@ possibilities.
 - link : https://docs.google.com/spreadsheets/d/1hKmfA00Vn76y6M_qQpg_ZwRdk32nXVjq5v5pMDa1R7I/edit#gid=0
 - Or <a href = './Column Explanation.xlsx'>click here</a>
 
-## Test Design
+## 2. Test Design
 ### Data Preprocessing
 - Data shape : (6819, 71) out of (6819, 96)
 - Learning / Test data : 8 / 2
