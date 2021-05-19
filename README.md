@@ -43,4 +43,4 @@ We've also provide the service with visualization of result and bankruptcfy pred
 User can choose some of columns from whole data sets and predict the accuracies and losses. In addition, they can even customize the visualized plots with selecting two columns.
 
 ## Colab Link
-- https://colab.research.google.com/github/kdstheace/Project_Financial_Analysis/blob/Daniel/Financial_analysis.ipynb
+- https://colab.research.google.com/drive/1vLJzXIfBHCK2W009ygaQWSlKfuC6vsXT?usp=sharing
