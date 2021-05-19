@@ -1,10 +1,10 @@
 # **Predicting Bankruptcy with Deep Learning Algorithm**
-## <span style="color:blue">1. Description</span>
+## 1. Description
 ### Intro
-Predicting Bankruptcy with financial statement.
-Analysis main features of financial statement such as ROA, Turnover rate,
-and even tax rates, it shows whether the company will bankrupt or not, and its
-possibilities.
+  Predicting Bankruptcy with financial statement.
+  Analysis main features of financial statement such as ROA, Turnover rate,
+  and even tax rates, it shows whether the company will bankrupt or not, and its
+  possibilities.
 ### Duration
 - 2021-04-12 ~ 2021-05-31
 ### Team
