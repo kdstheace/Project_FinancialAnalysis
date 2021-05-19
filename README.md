@@ -6,19 +6,19 @@
   and even tax rates, it shows whether the company will bankrupt or not, and its
   possibilities.
 ### Duration
-- 2021-04-12 ~ 2021-05-31
+  - 2021-04-12 ~ 2021-05-31
 ### Team
-- Dongsoo Kim (Daniel)
-- Minyoung Kim (Aphie)
+  - Dongsoo Kim (Daniel)
+  - Minyoung Kim (Aphie)
 ### Powered by
-- Python, Google Colaboratory
-- Numpy, Pandas, Keras, Sklearn
-- Seaborn
+  - Python, Google Colaboratory
+  - Numpy, Pandas, Keras, Sklearn
+  - Seaborn
 ### Sources by
-- Kaggle : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
+  - Kaggle : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
 ### Columns Explanation
-- link : https://docs.google.com/spreadsheets/d/1hKmfA00Vn76y6M_qQpg_ZwRdk32nXVjq5v5pMDa1R7I/edit#gid=0
-- Or <a href = './Column Explanation.xlsx'>click here</a>
+  - link : https://docs.google.com/spreadsheets/d/1hKmfA00Vn76y6M_qQpg_ZwRdk32nXVjq5v5pMDa1R7I/edit#gid=0
+  - Or <a href = './Column Explanation.xlsx'>click here</a>
 
 ## 2. Test Design
 ### Data Preprocessing
