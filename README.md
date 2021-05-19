@@ -6,7 +6,7 @@
   and even tax rates, it shows whether the company will bankrupt or not, and its
   possibilities.
 ### Why Predict Bankruptcy?
-  1. For managers to deal with financial risk beforehand
+  1. For managers to deal with financial risk in advance
   2. For investors to make sure whether companies are valuable or not
   3. For Banks to predict the risk for their loan over companies
 ### Duration
