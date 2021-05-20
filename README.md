@@ -43,6 +43,7 @@
 ## 3. Result & User Interface
 We've also provide the service with visualization of result and bankruptcfy prediction of any company that user input the financial index.
 User can choose some of columns from whole data sets and predict the accuracies and losses. In addition, they can even customize the visualized plots with selecting two columns.
+<hr>
 <br>
 # 기업 부도예측 및 재무건전성 관리 프로그램
 ## 1. 개요
@@ -67,11 +68,11 @@ User can choose some of columns from whole data sets and predict the accuracies 
   - link : https://docs.google.com/spreadsheets/d/1hKmfA00Vn76y6M_qQpg_ZwRdk32nXVjq5v5pMDa1R7I/edit#gid=0
   - 혹은 <a href = './Column Explanation.xlsx'>링크로 이동</a>
   - 데이터 전처리를 위해, 몇 개의 컬럼을 아래와 같은 기준에 따라 삭제하였습니다:
-  1. Columns using certain currency rates(such as Chinese Yen) that lower the compatabilities
-  2. Columns showing over-exceptional scatters from boxplot
-  3. However, some columns which show critical affects on prediction are remained 
-  4. Any unclear columns
-## 2. Test Design
+  1. 특정 화폐를 사용하고 있어 해당 분석의 국가적 호환성을 낮추는 컬럼을 제거했습니다. (예: 중국의 위안화)
+  2. BoxPlot을 시각화해보고 예외치가 너무 많은 경우 삭제하였습니다.
+  3. 2번 항목에도 불구하고, 결과에 많은 영향을 미치는 컬럼은 유지했습니다. 
+  4. 그 외에 국가별 회계기준(IFRS)이 달라 불분명한 계정 등을 삭제했습니다. 
+## 2. 테스트 설계
 ### Data Preprocessing
 - Data shape : (6819, 71) out of (6819, 96)
 - Learning / Test data : 8 / 2
