@@ -43,7 +43,8 @@
 ## 3. Result & User Interface
 We've also provide the service with visualization of result and bankruptcfy prediction of any company that user input the financial index.
 User can choose some of columns from whole data sets and predict the accuracies and losses. In addition, they can even customize the visualized plots with selecting two columns.
-
+<br>
+# 기업 부도예측 및 재무건전성 관리 프로그램
 ## 1. 개요
 ### Intro
   기업의 각종 재무지표를 이용해 부도를 예측하는 어플리케이션입니다. 주요 예측 요소로는 재무제표, 손익계산서 등의 계정을 통해 계산하는 ROA, 회전율, 유동비율부터 시작해, 법인세율 등의 외부 지표까지 고려했습니다. 
