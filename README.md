@@ -43,7 +43,7 @@
 ## 3. Result & User Interface
 We've also provide the service with visualization of result and bankruptcfy prediction of any company that user input the financial index.
 User can choose some of columns from whole data sets and predict the accuracies and losses. In addition, they can even customize the visualized plots with selecting two columns.
-<hr>
+<br>
 <br>
 # 기업 부도예측 및 재무건전성 관리 프로그램
 ## 1. 개요
