@@ -49,7 +49,7 @@ User can choose some of columns from whole data sets and predict the accuracies 
 ## 1. 개요
 ### Intro
   기업의 각종 재무지표를 이용해 부도를 예측하는 어플리케이션입니다. 주요 예측 요소로는 재무제표, 손익계산서 등의 계정을 통해 계산하는 ROA, 회전율, 유동비율부터 시작해, 법인세율 등의 외부 지표까지 고려했습니다. 
-### 왜 부도예측을 하는가?
+### 비즈니스적 활용도
   1. 기업의 관리자는 여러가지 재무적 리스크를 사전에 대응할 수 있다.
   2. 투자자들은 투자하고자 하는 회사의 가치를 명확하게 평가할 수 있고, 본인 투자에 건전성을 높일 수 있다.
   3. 은행의 경우 시행된, 시행될 대출자금에 대해 리스크를 예측하고 대응할 수 있다.
@@ -73,17 +73,14 @@ User can choose some of columns from whole data sets and predict the accuracies 
   3. 2번 항목에도 불구하고, 결과에 많은 영향을 미치는 컬럼은 유지했습니다. 
   4. 그 외에 국가별 회계기준(IFRS)이 달라 불분명한 계정 등을 삭제했습니다. 
 ## 2. 테스트 설계
-### Data Preprocessing
+### 데이터 전처리
 - Data shape : (6819, 71) out of (6819, 96)
-- Learning / Test data : 8 / 2
+- 학습 / 테스트 데이터 : 8 / 2
 - One-hot Encoding
-- Sequence : sklearn's MinMaxScaler
-### Modeling
-- Activation : Relu, Sigmoid
-- Dense layers : 5
+- 사용 시퀀스 : sklearn's MinMaxScaler
+### 모델링
+- 활성화 함수 : Relu, Sigmoid
+- 레이어 개수 : 5
 
-## 3. Result & User Interface
-We've also provide the service with visualization of result and bankruptcfy prediction of any company that user input the financial index.
-User can choose some of columns from whole data sets and predict the accuracies and losses. In addition, they can even customize the visualized plots with selecting two columns.
-
-
+## 3. 결과 및 UI 설명
+저희는 유저의 필요에 따라 각 계정별로 어떤 상관관계가 있는지 시각화할 수 있도록 하여 사전에 주어져있는 시각화 그래프보다 활용성을 높였습니다. 그 외에도 전체 피쳐를 사용하지 않고 일부의 피쳐만 index입력을 통해 모델을 형성, 평균적으로 정확도 96%에 달하는 예측을 할 수 있도록 했습니다. 결과적으로 이는 기업의 많은 이해관계자들이 보다 자유롭게 재무 건전성과 부도예측을 할 수 있도록 돕고 있습니다.
